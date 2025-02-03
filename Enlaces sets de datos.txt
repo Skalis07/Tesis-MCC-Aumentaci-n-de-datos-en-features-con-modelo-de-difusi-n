@@ -1,0 +1,3 @@
+PRIMERO https://www.kaggle.com/datasets/faresabbasai2022/skin-data-cancer
+SEGUNDO https://www.kaggle.com/datasets/malicks111/skin-cancer
+TERCERO FONDECYT https://www.kaggle.com/datasets/sherifabdelzaher/skin-cancer-test/data
